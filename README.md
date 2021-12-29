@@ -1,6 +1,6 @@
 # Based Cooking Website
 
-[https://based.cooking](https://based.cooking)
+[https://vegbased.cooking](https://vegbased.cooking)
 
 This is a simple cooking website where users can submit recipes here for credit.
 There are no ads, trackers, cookies (unless recipes thereof) or javascript.
@@ -54,8 +54,6 @@ List of special, categorical tags to use if relevant:
 - `snack`
 - `spread`
 
-If your recipe contains no meat or dairy, include the `fasting` tag.
-If it includes dairy but no milk, incude the `cheesefare` tag.
 
 ### Images
 
@@ -69,10 +67,10 @@ Take a good picture yourself of the actual dish created.
 If you see a bad or substandard image, you may submit a better one.
 
 Images should be in `.webp` format and with as small file size as possible.
-If you submit an image for say, `chicken-parmesan.md`, it should be added as `pix/chicken-parmesan.webp`.
+If you submit an image for say, `tofu-curry.md`, it should be added as `pix/tofu-curry.webp`.
 
 If you would like to add additional directional images,
-they should be numbered with two digits like: `pix/chicken-parmesan-01.webp`, etc.
+they should be numbered with two digits like: `pix/tofu-curry-01.webp`, etc.
 
 ## About the site
 
