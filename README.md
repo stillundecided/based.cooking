@@ -1,4 +1,4 @@
-# Based Cooking Website
+# VegBased Cooking Website
 
 [https://vegbased.cooking](https://vegbased.cooking)
 
