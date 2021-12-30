@@ -22,7 +22,7 @@ There are no ads, trackers, cookies (unless recipes thereof) or javascript.
   should be automatic).
 - File names should be the name of the dish with words separated by hyphens
   (`-`). Not underscores, and definitely not spaces.
-- Recipe must be based, i.e. good traditional and substantial food. Nothing
+- Recipe must be (plant)based, i.e. good traditional and substantial food. Nothing
   ironic, meme-tier hyper-sugary, meat-substitute, etc.
 - Don't include salt and pepper and other ubiquitous things in the ingredients
   list.
