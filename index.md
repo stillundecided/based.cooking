@@ -1,6 +1,7 @@
 ## About this site
 
-Founded to provide a simple online cookbook without ads and obese web design.
+Founded to provide a simple online cookbook without ads and obese web design. It is originally
+based on [based.cooking](https://based.cooking).
 
 ### It's easy to contribute!
 
